@@ -8,7 +8,7 @@
 
 arch: X86_64, arm, arm64
 
-LLVM toolchain ( Copyright (C) LLVM Project )
+## LLVM toolchain ( Copyright (C) LLVM Project )
 
 To download this clang, please run:
 
@@ -30,8 +30,9 @@ PATH=<path to your clone directory>/bin:${PATH}
 
 to the command you want to use this toolchain.
 
+-------
 
-Version information:
+## Version information:
 
 Crepuscular clang version 14.0.0 (https://github.com/llvm/llvm-project c140ff493e84bbe697b78ac31fda427e4f8e12da)
 
