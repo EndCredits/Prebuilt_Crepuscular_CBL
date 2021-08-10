@@ -13,7 +13,7 @@ LLVM toolchain ( Copyright (C) LLVM Project )
 To download this clang, please run:
 
 ```
-git clone https://github.com/EndCredits/Prebuilt_Crepuscular_CBL <path to where you want to clone>
+git clone https://gitlab.com/EndCredits/Prebuilt_Crepuscular_CBL.git <path to where you want to clone>
 ```
 
 To use, either run:
