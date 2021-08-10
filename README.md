@@ -34,8 +34,11 @@ to the command you want to use this toolchain.
 Version information:
 
 Crepuscular clang version 14.0.0 (https://github.com/llvm/llvm-project c140ff493e84bbe697b78ac31fda427e4f8e12da)
+
 Target: x86_64-unknown-linux-gnu
+
 Thread model: posix
+
 InstalledDir: /home/crepuscular/tc-build/install/bin
 
 LLD 14.0.0 (compatible with GNU linkers)
